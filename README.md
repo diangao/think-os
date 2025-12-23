@@ -136,6 +136,33 @@ Build your own. Make it weird. Make it yours.
 
 ---
 
+## Agents
+
+Think OS isn't just for Claude Code. Any AI agent can read and write to it.
+
+### S.P.A.R.K.
+
+[S.P.A.R.K.](https://github.com/diangao/S.P.A.R.K.) — the Telegram bot that texts you first. It integrates with Think OS to:
+
+- **Know what you're avoiding** — reads your daily files and schedule
+- **Hold you accountable** — guilt trips you when you ghost your own goals
+- **Learn what works** — writes to `memory/spark/learned.md` over time
+- **Track your sins** — remembers how many times you've ignored it in `memory/spark/state.json`
+
+It's the annoying friend who sends "bruhh" when you said you'd finish something and didn't. Except it never forgets. And it has access to your goals.
+
+```
+spark: how's the MCP research going
+you: [no reply for 20 min]
+spark: bruhh
+you: [still nothing]
+spark: u literally wrote "ship this week" in ur goals
+```
+
+Think OS gives Spark context. Spark makes sure you actually do the thing.
+
+---
+
 ## FAQ
 
 **Is this just CLAUDE.md with extra steps?**
@@ -162,4 +189,4 @@ MIT. Take it, modify it, make it yours.
 
 ---
 
-*Built with Claude Code. Maintained by Dian, Cindy.*
+*Built with Claude Code. Maintained by [your name].*
