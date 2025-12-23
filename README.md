@@ -189,4 +189,4 @@ MIT. Take it, modify it, make it yours.
 
 ---
 
-*Built with Claude Code. Maintained by [your name].*
+*Built with Claude Code. Maintained by Dian & Cindy.*
