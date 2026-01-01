@@ -7,7 +7,7 @@
 ## This Week
 
 - [ ] Set up Think OS
-- [ ] Write 2025 goals
+- [ ] Write 2026 goals
 
 ---
 
