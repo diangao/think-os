@@ -6,7 +6,7 @@
 
 ## Past
 
-### 2024 Review
+### 2025 Review
 
 (Your reflection — Claude helps you organize)
 
@@ -20,7 +20,7 @@
 
 ## Future
 
-### 2025 Goals
+### 2026 Goals
 
 (New year intentions — Claude helps you track)
 
