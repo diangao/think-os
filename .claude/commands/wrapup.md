@@ -4,44 +4,52 @@ description: Session wrapup - create daily index and commit
 
 Think OS session wrapup. Execute the following:
 
-1. **Review this session**:
-   - What topics were discussed?
-   - What decisions were made?
-   - What was learned?
+1. **Review this session's changes**:
+   ```bash
+   git log --oneline -20
+   git diff --stat HEAD~10
+   ```
 
 2. **Create/update daily index** at `memory/timeline/daily/{today's date}.md`:
 
+**Daily index format**:
 ```markdown
 # {YYYY-MM-DD}
 
-## Summary
+## Commits ({N} total)
 
-(Brief overview of the session)
+```
+{paste git log output - don't summarize, show actual commits}
+```
+
+---
+
+## Files Changed
+
+### {Category} (Major updates)
+- {What changed}
 
 ## Key Discoveries
-
 - **{Discovery}**: {Brief explanation}
 
-## Todos Updated
-
-- Added: ...
-- Completed: ...
-
 ## Open Threads
-
 - [ ] {Thread for next session}
 ```
 
-3. **Check files that might need updates**:
-   - `memory/me.md` — any new patterns observed?
-   - `memory/timeline/perspective.md` — any goals/milestones discussed?
-   - `memory/timeline/todo.md` — any tasks to add/complete?
-   - `now.md` — any focus changes?
+3. **Clean up completed todos**:
+   - Check `memory/timeline/todo.md` for completed items marked `[x]`
+   - Move them to a "Completed" section at bottom with date
+   - Keep main todo list clean (only pending items)
 
-4. **Commit your work**:
-```bash
-git add -A
-git commit -m "[daily] {date} session wrap-up"
-```
+4. **Check now.md**:
+   - Any tinker topic becoming more serious? → Consider moving to active focus
+   - Any active topic no longer active? → Consider moving to Paused
+   - Update `now.md` if needed
 
-5. **Confirm**: "Session wrapped up. Daily index created."
+5. **Final commit**:
+   ```bash
+   git add -A
+   git commit -m "[daily] {date} session wrap-up"
+   ```
+
+6. **Confirm**: "Session wrapped up. Daily index created at memory/timeline/daily/{date}.md"
