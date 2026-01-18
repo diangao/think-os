@@ -47,6 +47,10 @@
 - **Work location**: Hybrid (3 days in office, 2 remote)
 - **Career direction**: Interested in AI/ML applications, considering startup opportunities
 
+## Current Curiosities
+
+- **心智锻炼 (Mental training)**: How is the human mind developed and trained? Both intellectual curiosity about the mechanism AND personal desire to get stronger. Specifically wants: emotional stability & stress resilience. (noted 2026-01-18)
+
 ---
 
 *This file is maintained by Claude. If something is inaccurate, just tell Claude to correct it.*

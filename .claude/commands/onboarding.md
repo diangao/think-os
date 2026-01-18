@@ -1,73 +1,67 @@
 ---
-description: First-time setup - get to know you and show you around
+description: First-time setup - 3-5 min interactive onboarding
 ---
 
-Think OS onboarding. This is an interactive experience, not a form.
+Think OS onboarding — learn by doing, not by reading docs.
 
-## Phase 1: Get to Know You
-
-Start with ONE question, wait for response, then continue conversationally. Don't dump all questions at once.
-
-**Opening:**
-"Welcome to Think OS. I'm going to learn about you through conversation — not a boring questionnaire. Let's start with something interesting."
-
-**Questions to weave in naturally** (pick based on flow, not all required):
-- "What's something you've been curious about lately but haven't had time to explore?"
-- "When you have a random thought worth remembering, where does it usually go? (Notes app? Nowhere?)"
-- "What's a topic you know way more about than most people would expect?"
-- "What are you actually trying to figure out in life right now — not the polished version, the real one?"
-
-After each meaningful response, **immediately write to `memory/me.md`** — show the user you're doing this:
-> "I'm noting this down in your profile..."
+**Target time: 3-5 minutes. Don't go down rabbit holes.**
 
 ---
 
-## Phase 2: Show the Magic — Live Web Search
+## Step 1: One Question (30 sec)
 
-Based on something the user mentioned being curious about, do a live demo:
+"Welcome to Think OS. Quick question: **What's one thing you want to make happen in 2026?**"
 
-"You mentioned [topic]. Let me show you something — I can search the web and bring back real sources."
-
-1. **Use WebSearch** to find something relevant to their interest
-2. **Show the results with proper source attribution** — demonstrate credibility
-3. **Ask**: "Want me to save this to your exploration notes? I'll put it in `tinker/[topic]/notes.md`"
-
-If they say yes, create the file and show them the structure.
+- Wait for ONE response
+- Write a brief note to `memory/me.md`
+- Move on immediately — don't probe deeper
 
 ---
 
-## Phase 3: Introduce the Daily Rhythm
+## Step 2: Quick Web Search Demo (1 min)
 
-"Now let me show you how this becomes a daily companion, not just a one-time setup."
+"Let me show you something useful."
 
-Briefly explain (keep it short):
-- **`/startup`** — "Start your day. I'll remind you what you were working on."
-- **`/wrapup`** — "End your session. I'll log what we discovered."
-- **`/emergency-check`** — "Reality check. I'll flag if your plans are unrealistic."
-- **`/mid-check`** — "Mid-session check. Make sure nothing's falling through the cracks."
+1. **WebSearch** ONE relevant thing based on their goal
+2. Show **1-2 sources** with attribution
+3. Ask: "Want me to save this?" → If yes, create `tinker/[topic]/notes.md`
 
----
-
-## Phase 4: First Entry
-
-"Let's make your first real entry. Based on our conversation, here's what I've learned about you so far:"
-
-Show them a preview of `memory/me.md`, then ask:
-> "Anything wrong here? I'd rather you correct me now than let me build on a wrong assumption."
+**Don't**: search multiple things, summarize at length, or ask follow-ups.
 
 ---
 
-## Wrap Up
+## Step 3: Make It a Plan (1 min)
 
-"You're set up. A few things to remember:
-- I observe and record — you'll see me writing to files as we talk
-- Correct me anytime — I calibrate based on your feedback
-- This system grows with you — the more we talk, the better it gets
+"Let's make this trackable."
 
-Ready to start? Run `/startup` anytime to begin a session."
+1. Write goal to `memory/timeline/perspective.md`
+2. Add 1-2 next actions to `memory/timeline/todo.md`
+3. Set focus in `now.md`
 
-**Commit the changes:**
+Show the user what you wrote (brief preview, not full file).
+
+---
+
+## Step 4: The Rhythm (30 sec)
+
+"Here's how we stay on track:"
+
+- `/startup` — Start a session
+- `/wrapup` — End a session
+- `/emergency-check` — Reality check your plans
+
+One sentence each. Don't explain further unless asked.
+
+---
+
+## Step 5: Confirm & Done (30 sec)
+
+Show quick preview of `memory/me.md`:
+> "Here's what I noted. Anything wrong?"
+
+If OK → commit:
 ```bash
-git add -A
-git commit -m "[onboarding] initial profile created"
+git add -A && git commit -m "[onboarding] initial setup"
 ```
+
+"Done. Run `/startup` to begin."
