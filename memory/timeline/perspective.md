@@ -1,65 +1,70 @@
 # Perspective
 
-> Where I've been → Where I am → Where I'm going
+> Trajectory view: Past → Present → Future
 
 ---
 
 ## Past
 
-| When | Milestone |
-|------|-----------|
-| 2019-2023 | UC Berkeley CS degree, graduated with honors |
-| 2021 | Internship at Google (Search team) |
-| 2022 | Built and sold a productivity Chrome extension ($5k ARR) |
-| 2023-08 | Joined current startup as founding engineer #3 |
-| 2024-03 | Promoted to Senior Engineer |
-| 2024-11 | Started Think OS to organize personal knowledge |
+### 2023: Post-graduation chaos
+- Graduated NYU, moved to Brooklyn
+- First job at a tiny agency — learned a lot, burned out fast
+- Started therapy, figured out some things about myself
+
+### 2024: Finding footing
+- Joined current fintech startup (April)
+- Finally felt like a "real designer"
+- Started getting curious about AI tools
+- Relationship with Jamie became long-distance (they moved to Seattle for grad school)
+
+### 2025: The AI awakening
+- Went deep on AI design tools — became the team's "AI person"
+- Realized I want to build, not just design
+- Started learning Python (October)
+- Set up Think OS (December) — first time having a real system for my thoughts
+- Felt more intentional about life than ever before
 
 ---
 
-## [Current] — 2026-01
+## [Current] — January 2026
 
-**Status**:
-- Working at startup, building AI code assistant
-- Living in SF, lease until 2026-08
-- Side project: Building a personal AI research assistant
+**Where I am:**
+- 2.5 years into design career, feeling ready for something more
+- Building my first real coding project (AI writing tool)
+- Exploring what "creative independence" could look like
+- In a good place mentally; therapy helped
+- Long-distance relationship is hard but working
 
-**Current priorities**:
-- Ship v2.0 of product (public beta launch)
-- Learn more about LLM fine-tuning and prompt engineering
-- Network with other builders in the AI space
-
-**Recent realizations**:
-- Working on products I'm passionate about > optimizing comp
-- Writing in public helps clarify thinking
-- Need better system for tracking learning and ideas
+**What I'm figuring out:**
+- Do I want to go full indie, or stay employed while building on the side?
+- What's my relationship with ambition? (Still unpacking this)
+- How to be consistent with habits (morning routine experiment ongoing)
 
 ---
 
 ## Future
 
-**Short-term (3 months)**:
-- Launch v2.0 public beta
-- Write 4 blog posts about AI tooling insights
-- Attend 2-3 AI/tech meetups per month
-- Build MVP of personal AI assistant
+### 2026 Goals
 
-**Medium-term (1 year)**:
-- Decide: stay at current startup vs start own thing
-- Build audience on Twitter/blog (1k followers)
-- Ship 2-3 meaningful side projects
-- Save $50k runway for potential startup
+**Build:**
+- [ ] Ship the AI writing tool (even if it's just for me)
+- [ ] Learn enough code to prototype my own ideas
+- [ ] Start a tiny newsletter about design + AI
 
-**Long-term (3-5 years)**:
-- Start a company in AI/developer tools space
-- Build products used by 10k+ developers
-- Work with a small, high-trust team
-- Financial independence to choose projects freely
+**Life:**
+- [ ] Visit Jamie in Seattle at least 4 times
+- [ ] Establish a sustainable morning routine
+- [ ] Read 24 books
 
-**Life goals**:
-- Live in multiple cities (Tokyo, NYC, Berlin?)
-- Stay technical but develop product/business skills
-- Mentor younger engineers
-- Contribute to open source in meaningful ways
+**Career:**
+- [ ] Figure out if I want to stay at current job or explore other options
+- [ ] Build a portfolio of AI-assisted design work
+- [ ] Attend 2-3 conferences or meetups
+
+### Longer-term direction (2-5 years)
+
+- Work for myself in some capacity — freelance, indie products, or a tiny studio
+- Bridge design and engineering — not a full engineer, but technical enough to prototype
+- Build things that help people think and create better
 
 ---

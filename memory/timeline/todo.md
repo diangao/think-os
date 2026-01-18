@@ -1,60 +1,51 @@
 # Todo
 
-> All pending tasks. Keep this clean — completed items get moved to archive.
+> Tasks and to-dos. Claude helps you track.
 
 ---
 
-## Work
+## This Week (Jan 13-19)
 
-- [ ] **v2.0 Beta Launch (Deadline: 2026-01-31)**
-  - [ ] Finish API integration for GPT-4 models
-  - [ ] Write migration guide for existing users
-  - [ ] Set up analytics dashboard
-  - [ ] User testing with 10 beta users
-  - [x] Design new onboarding flow
+### AI Writing Tool
+- [x] Set up basic Python environment
+- [x] Get OpenAI API working
+- [ ] Design the prompt structure — what inputs, what outputs?
+- [ ] Build a simple CLI version first
 
-- [ ] **Q1 Planning (Deadline: 2026-01-15)**
-  - [ ] Write roadmap doc for Q1 goals
-  - [ ] Review team capacity and priorities
-  - [x] Sync with PM on user feedback
+### Morning Routine (Day 12)
+- [ ] Wake up by 7:30am (3/7 days so far this week)
+- [ ] 10 min meditation before phone
+- [ ] Coffee + journaling before work
 
-## Personal
-
-- [ ] **Blog Posts**
-  - [ ] "Building an AI code assistant: lessons learned"
-  - [ ] "How I organize my second brain with Claude"
-  - [ ] Draft outline for LLM prompting best practices
-
-- [ ] **Side Project: AI Research Assistant**
-  - [x] Set up MCP server prototype
-  - [ ] Design conversation memory system
-  - [ ] Build web scraping + summarization pipeline
-  - [ ] Test with 5 friends
-
-- [ ] **Networking**
-  - [ ] Attend AI Tinkerers meetup (Jan 18)
-  - [ ] Coffee chat with Sarah from Anthropic
-  - [ ] Reach out to 3 people building AI tools
-
-## Learning
-
-- [ ] Finish reading "Building LLMs for Production"
-- [ ] Complete fast.ai course on fine-tuning
-- [ ] Experiment with RAG architectures
-
-## Life
-
-- [ ] Book dentist appointment
-- [ ] Plan weekend trip to Tahoe (Feb)
-- [ ] Update resume/LinkedIn
-- [ ] Renew car registration (Deadline: 2026-02-28)
+### Life
+- [ ] Call Jamie Thursday night
+- [ ] Book Seattle trip for Feb
+- [ ] Finish reading "Working in Public"
 
 ---
 
-## Recurring
+## Upcoming
 
-- [ ] Weekly review (every Sunday evening)
-- [ ] Write 1 tweet about what I learned (daily)
-- [ ] 30 min deep work on side project (weekday mornings)
+### This Month
+- [ ] Decide on the core feature set for writing tool
+- [ ] Write first newsletter draft (even if I don't publish)
+- [ ] Team offsite Jan 25 — prep presentation on AI design tools
+
+### February
+- [ ] Visit Jamie in Seattle (need to book flights)
+- [ ] Resume Japanese study
+- [ ] 1-year review at work — prepare talking points
 
 ---
+
+## Someday
+
+- [ ] Learn basic web dev (HTML/CSS/JS) to make the writing tool a web app
+- [ ] Take a pottery class
+- [ ] Plan a trip to Japan with Jamie
+- [ ] Read "Designing Design" by Kenya Hara
+- [ ] Experiment with local LLMs
+
+---
+
+*Tell Claude what you need to do. It will add items here and check on progress.*

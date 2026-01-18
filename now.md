@@ -1,22 +1,20 @@
 # Now
 
-> What I'm focused on right now.
-
-Last updated: 2026-01-11
+Current focus. Claude reads this at the start of every session.
 
 ---
 
-## Active Focus
+## Active
 
-1. **v2.0 Beta Launch** — Shipping public beta by end of January
-2. **AI Research Assistant** — Building personal tool for learning/research
-3. **Writing in Public** — Starting to share insights via blog/Twitter
+- [ ] **AI Writing Tool** — Building a personal writing assistant as first coding project
+- [ ] **Morning Routine** — Trying to become a morning person (day 12)
+- [ ] **2026 Goals** — Annual planning and reflection
 
 ---
 
 ## Paused
 
-- Open source contributions (will resume after beta launch)
-- Japanese language study (on hold, revisit in Q2)
+- [ ] **Japanese study** — Was doing Duolingo daily, paused for the AI project (will resume Feb)
+- [ ] **Photography** — Haven't touched the camera in weeks
 
 ---

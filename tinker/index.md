@@ -1,22 +1,23 @@
-# Tinker Index
+# Tinker
 
-> Curiosity-driven explorations. No pressure, just learning.
+> Curiosity-driven exploration. Not formal projects, just poking around.
+
+---
+
+## Topics
+
+| Topic | Status | Notes |
+|-------|--------|-------|
+| **prompt-engineering** | active | Learning to talk to LLMs effectively |
+| **local-llms** | curious | Can I run models on my laptop? |
+| **design-systems** | paused | Work stuff, might pick back up |
 
 ---
 
-## Active Explorations
+## How to use
 
-| Topic | Status | Last touched |
-|-------|--------|--------------|
-| **RAG architectures** | Exploring | 2026-01-08 |
-| **MCP protocol** | Building | 2026-01-10 |
-| **Prompt engineering patterns** | Researching | 2026-01-05 |
+1. Got curious about something → add it to this list
+2. Start exploring → create `tinker/{topic}/notes.md`
+3. Gets serious → move to `now.md` as active focus
 
-## Someday/Maybe
-
-- Fine-tuning small models for specific tasks
-- Building a personal knowledge graph
-- WebAssembly for client-side ML
-- Voice interfaces for coding
-
----
+Claude will help you track and organize your explorations.

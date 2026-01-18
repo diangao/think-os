@@ -8,44 +8,62 @@
 
 - **Name**: Sky
 - **Pronouns**: they/them
-- **Age**: 26
-- **Education**: UC Berkeley, B.S. Computer Science, graduated 2023
-- **Current**: Software Engineer at a mid-stage startup in SF
-- **Background**: Grew up in Seattle, spent a year studying abroad in Tokyo during high school
-- **Languages**: English, conversational Japanese
+- **Age**: 25
+- **Location**: Brooklyn, NY
+- **Education**: NYU, B.A. Design & Technology, 2023
+- **Current**: Product Designer at a fintech startup, exploring the intersection of AI and design tools
+- **Background**: Grew up in Portland, OR. Parents run a small bookstore. Spent a gap year traveling through Southeast Asia before college.
+
+---
 
 ## Preferences
 
-- **Work style**: Prefers deep work in the morning, meetings in the afternoon
-- **Communication**: Direct and concise; appreciates structured information (tables, lists, diagrams)
-- **Tools**: Heavy user of keyboard shortcuts; likes automation and scripting
-- **Learning**: Learns best by building things and reading source code
-- **Environment**: Needs quiet space for focus work; energized by good coffee and natural light
+- **Work style**: Night owl; does best creative work after 9pm. Prefers async communication.
+- **Communication**: Visual thinker — sketches ideas before writing them. Appreciates metaphors and analogies.
+- **Tools**: Figma power user, learning to code (Python, basic web dev). Obsessed with keyboard shortcuts.
+- **Learning**: Learns by teaching others and writing explanations. "If I can't explain it simply, I don't understand it."
+- **Environment**: Works best in coffee shops with ambient noise. Needs plants around. Music without lyrics.
+
+---
 
 ## Thinking Patterns
 
-| Pattern | Description |
-|---------|-------------|
-| **Systems thinker** | Tends to see problems as systems; looks for root causes not symptoms |
-| **Iterative improver** | Comfortable with "good enough" v1, then refines based on feedback |
-| **Documentation-first** | Writes things down to clarify thinking; treats notes as external memory |
-| **Build-to-learn** | Prefers hands-on experimentation over reading tutorials |
-| **Context-switcher** | Can juggle multiple projects but needs clear boundaries between them |
-| **Process optimizer** | Notices inefficiencies and automates repetitive tasks |
+| Pattern | Description | First observed |
+|---------|-------------|----------------|
+| **Visual-first** | Draws diagrams before writing; thinks in spatial relationships | — |
+| **Connector** | Sees patterns across unrelated domains; "this is like that" thinking | — |
+| **Simplifier** | Uncomfortable with complexity; keeps reducing until essence remains | 2026-01-08 |
+| **Question-stacker** | One question leads to three more; rabbit-hole tendency | 2026-01-10 |
+| **Energy-aware** | Knows their energy cycles well; plans work around them | 2026-01-12 |
+| **Articulation-through-writing** | Discovers what they think by writing it out | 2026-01-14 |
+
+---
 
 ## Values
 
-- **Clarity over cleverness**: Code and communication should be obvious, not impressive
-- **Shipping over perfection**: Better to release and iterate than wait for perfect
-- **Learning in public**: Shares learnings and works-in-progress openly
-- **Deep work time**: Protects focus time; doesn't let meetings fragment the day
+- **Intentionality over productivity**: Would rather do fewer things well than many things poorly
+- **Creative independence**: Wants to eventually work for themselves; building towards that
+- **Depth over breadth**: Prefers mastering one thing over knowing many things superficially
+- **Human-centered tech**: Believes technology should feel invisible and empower people
 
-## Work Context
+---
 
-- **Current role**: Full-stack engineer working on AI-powered developer tools
-- **Team size**: 15 people (5 engineers)
-- **Work location**: Hybrid (3 days in office, 2 remote)
-- **Career direction**: Interested in AI/ML applications, considering startup opportunities
+## Current Life Context
+
+- **Work situation**: Likes the team, learning a lot, but feeling the itch to build something of their own
+- **Side project**: Building a personal AI writing assistant — first real coding project
+- **Relationship**: Long-distance with partner in Seattle; navigating that
+- **Health focus**: Trying to establish a morning routine; historically bad at consistency
+
+---
+
+## Quirks & Miscellaneous
+
+- Collects vintage postcards
+- Makes pour-over coffee as a daily ritual
+- Can't work without lo-fi beats
+- Keeps a paper notebook alongside digital tools — "some thoughts need pen"
+- Favorite book: "The Shape of Design" by Frank Chimero
 
 ---
 
