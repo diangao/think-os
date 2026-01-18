@@ -6,7 +6,8 @@
 
 ## Basics
 
-- **Name**: Alex Chen
+- **Name**: Sky
+- **Pronouns**: they/them
 - **Age**: 26
 - **Education**: UC Berkeley, B.S. Computer Science, graduated 2023
 - **Current**: Software Engineer at a mid-stage startup in SF
